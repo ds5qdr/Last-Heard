@@ -3,7 +3,7 @@ All Mode Last Heard Status Monitoring
 
 2021.06.28 : V0.96 Released
 
-How to install
+# How to install
 1. Download LH.zip from github
 2. Unzip LH.zip 
 3. Edit lh.ini 
@@ -12,7 +12,7 @@ How to install
    > Save
 4. Double click LH.exe 
 
-For more information click below link
+# For more information click below link
 https://ds5qdr-dv.tistory.com/230
 
 ![image](https://user-images.githubusercontent.com/64110724/123551094-46139500-d7ab-11eb-9b9f-6e3e2f5e7661.png)
