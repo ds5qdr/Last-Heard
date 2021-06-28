@@ -4,11 +4,11 @@ All Mode Last Heard Status Monitoring
 2021.06.28 : V0.96 Released
 
 # How to install
-1. Download LH_Client.zip from github
-2. Unzip LH_Clinet.zip 
+1. Download Last-Heard-main.zip from github
+2. Unzip Last-Heard-main.zip 
 3. Edit lh.ini 
    > tgs=tgs=[450, 45021, 45022, 45023, 45024, 45025, 45026, 45027, 45028, 45029, 45030, 45031, 45032, 45033, 45034, 45035, 45036, 45037, 45038, 45039, 91, 93, 214]  
-   > you can add, delete what you monitoring 
+   > you can add, delete TGs what you monitoring 
    > Save
 4. Double click LH.exe 
 
