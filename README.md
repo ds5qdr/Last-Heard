@@ -15,7 +15,7 @@ All Mode Last Heard Status Monitoring
 # For more information click below link
 https://ds5qdr-dv.tistory.com/234
 
-![image](https://user-images.githubusercontent.com/64110724/123581028-03d36d80-d816-11eb-803f-9a175f4761a8.png)
+![image](https://user-images.githubusercontent.com/64110724/123596873-a64b1b00-d82d-11eb-8118-a5498cdf8981.png)
 
 Thanks, 감사합니다
 
