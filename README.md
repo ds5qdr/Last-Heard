@@ -13,10 +13,9 @@ All Mode Last Heard Status Monitoring
 4. Double click LH.exe 
 
 # For more information click below link
-https://ds5qdr-dv.tistory.com/230
+https://ds5qdr-dv.tistory.com/234
 
-![image](https://user-images.githubusercontent.com/64110724/123573831-a3d6ca00-d809-11eb-9b45-325d359911c5.png)
-
+![image](https://user-images.githubusercontent.com/64110724/123581028-03d36d80-d816-11eb-803f-9a175f4761a8.png)
 
 Thanks, 감사합니다
 
