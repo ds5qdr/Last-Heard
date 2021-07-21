@@ -11,7 +11,7 @@ All Mode Last Heard Status Monitoring
    > tgs=tgs=[450, 45021, 45022, 45023, 45024, 45025, 45026, 45027, 45028, 45029, 45030, 45031, 45032, 45033, 45034, 45035, 45036, 45037, 45038, 45039, 91, 93, 214]  
    > you can add, delete TGs what you monitoring 
    > Save
-4. Double click LH.exe 
+4. Double click LH_Client.exe 
 
 # For more information click below link
 https://ds5qdr-dv.tistory.com/234
