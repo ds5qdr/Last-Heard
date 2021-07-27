@@ -1,8 +1,8 @@
 # Last-Heard
 All Mode Last Heard Status Monitoring
 
-# 2021.07.20 : V1.06 Available
-  - error fixed
+# 2021.07.20 : V1.20 Available
+  - Data Transfer updated and manager functions added
 
 # How to install
 1. Download Last-Heard-main.zip from github
