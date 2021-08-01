@@ -1,7 +1,8 @@
 # Last-Heard
 All Mode Last Heard Status Monitoring
 
-# 2021.07.30 : V1.20 Available
+# Pls update V1.21 : my DDNS has problem so I fixed it!
+# 2021.07.30 : V1.21 Available
   - Data Transfer updated and manager functions added
 
 # How to install
