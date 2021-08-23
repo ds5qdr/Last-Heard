@@ -21,7 +21,8 @@
 - https://ds5qdr-dv.tistory.com/234
 
 ![image](https://user-images.githubusercontent.com/64110724/123597205-ff1ab380-d82d-11eb-8423-490047bc3ef3.png)
-![image](https://user-images.githubusercontent.com/64110724/130431867-d4f40345-7570-46db-b45f-1879dfffa8e7.png)
+![image](https://user-images.githubusercontent.com/64110724/130441242-9ae69e76-f0dd-46ef-b668-b317c7fe10cf.png)
+
 
 
 Thanks, 감사합니다
