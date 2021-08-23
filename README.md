@@ -8,6 +8,7 @@
 - 2021.07.30 : Data Transfer protocol updated and Manager Functions added
 
 # How to install
+![image](https://user-images.githubusercontent.com/64110724/130436139-be3ffe78-efc5-44a1-bbdb-e2ee2374c8ce.png)
 - Download Last-Heard-main.zip from github
 - Unzip Last-Heard-main.zip 
 - Edit lh.ini 
