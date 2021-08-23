@@ -1,21 +1,23 @@
-# Last-Heard
-All Mode Last Heard Status Monitoring
+# Last-Heard Monitoring for DMR, DSTAR, YSF
+- Version : V1.25
+- Updated Date : 2021.08.23
+- Programmed by DS5QDR Lee, Hoenmin
 
-# Pls update V1.21 : my DDNS has problem so I fixed it!
-# 2021.07.30 : V1.21 Available
-  - Data Transfer updated and manager functions added
+# Update History
+- 2021.08.23 : Add DSTAR (REF082, XRF071) Monitoring
+- 2021.07.30 : Data Transfer protocol updated and Manager Functions added
 
 # How to install
-1. Download Last-Heard-main.zip from github
-2. Unzip Last-Heard-main.zip 
-3. Edit lh.ini 
-   > tgs=tgs=[450, 45021, 45022, 45023, 45024, 45025, 45026, 45027, 45028, 45029, 45030, 45031, 45032, 45033, 45034, 45035, 45036, 45037, 45038, 45039, 91, 93, 214]  
+- Download Last-Heard-main.zip from github
+- Unzip Last-Heard-main.zip 
+- Edit lh.ini 
+   > tgs=tgs=[450, 45021, 45022, 45023, 45024, 45025, 45026, 45027, 45028, 45029, 91]  
    > you can add, delete TGs what you monitoring 
    > Save
-4. Double click LH_Client.exe 
+- Double click LH_Client.exe 
 
 # For more information click below link
-https://ds5qdr-dv.tistory.com/234
+- https://ds5qdr-dv.tistory.com/234
 
 ![image](https://user-images.githubusercontent.com/64110724/123597205-ff1ab380-d82d-11eb-8423-490047bc3ef3.png)
 
