@@ -4,8 +4,8 @@
 - Programmed by DS5QDR Lee, Hoenmin
 
 # Update History
-- 2021.08.23 : Add DSTAR (REF082, XRF071) Monitoring
-- 2021.07.30 : Data Transfer protocol updated and Manager Functions added
+- 2021.08.23 : V1.25 Add DSTAR (REF082, XRF071) Monitoring
+- 2021.07.30 : V1.21 Data Transfer protocol updated and Manager Functions added
 
 # How to install
 ![image](https://user-images.githubusercontent.com/64110724/130436139-be3ffe78-efc5-44a1-bbdb-e2ee2374c8ce.png)
