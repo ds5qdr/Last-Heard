@@ -1,9 +1,10 @@
 # Last-Heard Monitoring for DMR, DSTAR, YSF
 - Version : V1.26
-- Updated Date : 2021.08.23
+- Updated Date : 2021.08.25
 - Programmed by DS5QDR Lee, Hoenmin
 
 # Update History
+- 2021.08.25 : V1.26 DSTAR Display On/Off and modified management function
 - 2021.08.23 : V1.25 Add DSTAR (REF082, XRF071) Monitoring
 - 2021.07.30 : V1.21 Data Transfer protocol updated and Manager Functions added
 
