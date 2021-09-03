@@ -1,6 +1,6 @@
 # Last-Heard Monitoring for DMR, DSTAR, YSF
 - Version : V1.30
-- Updated Date : 2021.08.28
+- Updated Date : 2021.09.03
 - Programmed by DS5QDR Lee, Hoenmin
 
 # Update History
