@@ -1,0 +1,1094 @@
+STATE,COUNTRY|Asia/Yangon
+,|Asia/Seoul
+Ontario,Canada|America/Nipigon
+Quebec,Canada|America/Toronto
+Yukon,Canada|America/Whitehorse
+Newfoundland,Canada|America/St_Johns
+California,United States|America/Los_Angeles
+Oregon,United States|America/Los_Angeles
+National Capital Region,Philippines|Asia/Manila
+Texas,United States|America/Chicago
+Tennessee,United States|America/Chicago
+Arizona,United States|America/Phoenix
+Michigan,United States|America/Detroit
+Washington,United States|America/New_York
+Kentucky,United States|America/New_York
+Maryland,United States|America/New_York
+Nevada,United States|America/Los_Angeles
+North Carolina,United States|America/New_York
+Alabama,United States|America/Chicago
+South Carolina,United States|America/New_York
+Connecticut,United States|America/New_York
+Florida,United States|America/New_York
+Georgia,United States|America/New_York
+Colorado,United States|America/Denver
+Wyoming,United States|America/Denver
+New Mexico,United States|America/Denver
+Minnesota,United States|America/Chicago
+Maine,United States|America/New_York
+New York,United States|America/New_York
+New Jersey,United States|America/New_York
+Kansas,United States|America/Chicago
+Delaware,United States|America/New_York
+Virginia,United States|America/New_York
+Illinois,United States|America/Chicago
+Indiana,United States|America/Indiana/Indianapolis
+Missouri,United States|America/Chicago
+Vermont,United States|America/New_York
+Arkansas,United States|America/Chicago
+Massachusetts,United States|America/New_York
+Pennsylvania,United States|America/New_York
+New Hampshire,United States|America/New_York
+Mississippi,United States|America/Chicago
+Ohio,United States|America/New_York
+,U.S. Virgin Islands|America/St_Thomas
+Hawaii,United States|Pacific/Honolulu
+Louisiana,United States|America/Chicago
+,Greece|Europe/Athens
+Peloponnisos,Greece|Europe/Athens
+Anatoliki Makedonia kai Thraki,Greece|Europe/Athens
+Dytiki Makedonia / Kentriki Makedonia,Greece|Europe/Athens
+Kriti,Greece|Europe/Athens
+Attiki / Sterea Ellada / Dytiki Ellada,Greece|Europe/Athens
+Ipeiros,Greece|Europe/Athens
+Thessalia,Greece|Europe/Athens
+Dodecanese,Greece|Europe/Athens
+Ionian Islands,Greece|Europe/Athens
+,Netherlands|Europe/Amsterdam
+Noord-Holland,Netherlands|Europe/Amsterdam
+Groningen / Drenthe / Friesland,Netherlands|Europe/Amsterdam
+Noord-Brabant,Netherlands|Europe/Amsterdam
+Gelderland,Netherlands|Europe/Amsterdam
+Utrecht,Netherlands|Europe/Amsterdam
+Zuid-Holland,Netherlands|Europe/Amsterdam
+Overijssel / Flevoland,Netherlands|Europe/Amsterdam
+Limburg,Netherlands|Europe/Amsterdam
+Zeeland,Netherlands|Europe/Amsterdam
+West-Vlaanderen,Belgium|Europe/Brussels
+,Belgium|Europe/Brussels
+Antwerp,Belgium|Europe/Brussels
+Hainaut,Belgium|Europe/Brussels
+Limburg,Belgium|Europe/Brussels
+Wal. Brabant,Belgium|Europe/Brussels
+Namur,Belgium|Europe/Brussels
+Oost-Vlaanderen,Belgium|Europe/Brussels
+Vlaams Brabant,Belgium|Europe/Brussels
+Liege,Belgium|Europe/Brussels
+Luxemburg,Belgium|Europe/Brussels
+Brussels,Belgium|Europe/Brussels
+,France|Europe/Paris
+Occitanie,France|Europe/Paris
+Nouvelle-Aquitaine,France|Europe/Paris
+,Corsica|Europe/Paris
+Grand Est,France|Europe/Paris
+Île-de-France,France|Europe/Paris
+Centre-Val de Loire,France|Europe/Paris
+Auvergne-Rhône-Alpes,France|Europe/Paris
+Normandie,France|Europe/Paris
+Provence-Alpes-Côte d Azur,France|Europe/Paris
+Hauts-de-France,France|Europe/Paris
+Pays de la Loire,France|Europe/Paris
+Alsace,France|Europe/Paris
+Bourgogne-Franche-Comté,France|Europe/Paris
+Bretagne,France|Europe/Paris
+,Monaco|Europe/Monaco
+,Andorra|Europe/Andorra
+,Spain|Europe/Madrid
+Gipuzkoa,Spain|Europe/Madrid
+Badajoz,Spain|Europe/Madrid
+Las Palmas,Spain|Atlantic/Canary
+Alicante,Spain|Europe/Madrid
+Madrid,Spain|Europe/Madrid
+Malaga,Spain|Europe/Madrid
+Ourense,Spain|Europe/Madrid
+Leon,Spain|Europe/Madrid
+Salamanca,Spain|Europe/Madrid
+Girona,Spain|Europe/Madrid
+Castellon,Spain|Europe/Madrid
+Cadiz,Spain|Europe/Madrid
+Lerida,Spain|Europe/Madrid
+Asturias,Spain|Europe/Madrid
+Cantabria,Spain|Europe/Madrid
+Jaen,Spain|Europe/Madrid
+La Rioja,Spain|Europe/Madrid
+Barcelona,Spain|Europe/Madrid
+A Coruna,Spain|Europe/Madrid
+Huelva,Spain|Europe/Madrid
+Murcia,Spain|Europe/Madrid
+Baleares,Spain|Europe/Madrid
+Sevilla,Spain|Europe/Madrid
+Valencia,Spain|Europe/Madrid
+Valladolid,Spain|Europe/Madrid
+Palencia,Spain|Europe/Madrid
+Cordoba,Spain|Europe/Madrid
+Ciudad Real,Spain|Europe/Madrid
+Vizcaya,Spain|Europe/Madrid
+Navarra,Spain|Europe/Madrid
+Granada,Spain|Europe/Madrid
+Huesca,Spain|Europe/Madrid
+Almeria,Spain|Europe/Madrid
+Zaragoza,Spain|Europe/Madrid
+Teruel,Spain|Europe/Madrid
+Caceres,Spain|Europe/Madrid
+Lugo,Spain|Europe/Madrid
+Santa Cruz de Tenerife,Spain|Atlantic/Canary
+Pontevedra,Spain|Europe/Madrid
+Guadalajara,Spain|Europe/Madrid
+Tarragona,Spain|Europe/Madrid
+Burgos,Spain|Europe/Madrid
+Avila,Spain|Europe/Madrid
+Alava,Spain|Europe/Madrid
+Segovia,Spain|Europe/Madrid
+Toledo,Spain|Europe/Madrid
+Cuenca,Spain|Europe/Madrid
+Niedersachsen / Bremen,Germany|Europe/Berlin
+Buenos Aires,Argentina Republic|America/Argentina/Buenos_Aires
+Albacete,Spain|Europe/Madrid
+,Hungary|Europe/Budapest
+Budapest,Hungary|Europe/Budapest
+Baranya / Somogy / Tolna / Kaposvar / Pecs / Szekszard,Hungary|Europe/Budapest
+Pest / Eger / Erd / Miskolc / Salgotarjan / Szolnok,Hungary|Europe/Budapest
+Borsod-Abauj-Zemplen / Heves / Jasz-Nagykun-Szolnok / Nogr,Hungary|Europe/Budapest
+,Bosnia and Hercegovina|Europe/Sarajevo
+All Regions,Bosnia and Hercegovina|Europe/Sarajevo
+,Croatia|Europe/Zagreb
+Sisak-Moslavina,Croatia|Europe/Zagreb
+Krapina-Zagorje,Croatia|Europe/Zagreb
+Primorje-Gorski Kotar,Croatia|Europe/Zagreb
+Varaždin,Croatia|Europe/Zagreb
+Istria,Croatia|Europe/Zagreb
+Brod-Posavina,Croatia|Europe/Zagreb
+Karlovac,Croatia|Europe/Zagreb
+Osijek-Baranja,Croatia|Europe/Zagreb
+Zagreb,Croatia|Europe/Zagreb
+City of Zagreb,Croatia|Europe/Zagreb
+Požega-Slavonia,Croatia|Europe/Zagreb
+Bjelovar-Bilogora,Croatia|Europe/Zagreb
+Šibenik-Knin,Croatia|Europe/Zagreb
+Dubrovnik-Neretva,Croatia|Europe/Zagreb
+Vukovar-Srijem,Croatia|Europe/Zagreb
+Zadar,Croatia|Europe/Zagreb
+Medimurje,Croatia|Europe/Zagreb
+Virovitica-Podravina,Croatia|Europe/Zagreb
+Koprivnica-Križevci,Croatia|Europe/Zagreb
+Split-Dalmatia,Croatia|Europe/Zagreb
+,Serbia|Europe/Belgrade
+All Regions,Serbia|Europe/Belgrade
+,Kosovo|Europe/Belgrade
+Lazio / Umbria / Sardinia,Italy|Europe/Rome
+,Italy|Europe/Rome
+Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,Italy|Europe/Rome
+Piedmont / Liguria / Aosta,Italy|Europe/Rome
+Molise / Campania / Calabria,Italy|Europe/Rome
+Emilia-Romagna,Italy|Europe/Rome
+Lombardy,Italy|Europe/Rome
+Virginia,Italy|Europe/Rome
+Sicily,Italy|Europe/Rome
+Tuscany,Italy|Europe/Rome
+Apulia / Basilicata,Italy|Europe/Rome
+Marche / Abruzzo,Italy|Europe/Rome
+Bucuresti / Ilfov,Romania|Europe/Bucharest
+,Romania|Europe/Bucharest
+Alba / Bihor / Bistrita-Nasaud / Cluj / Maramures / Salaj / Satu Mare,Romania|Europe/Bucharest
+Arges / Dolj / Gorj / Mehedinti / Olt / Valcea,Romania|Europe/Bucharest
+Braila / Constanta / Galati / Tulcea / Vrancea,Romania|Europe/Bucharest
+Buzau / Calarasi / Dambovita / Giurgiu / Ialomita / Prahova / Teleorman,Romania|Europe/Bucharest
+Hunedoara / Timis,Romania|Europe/Bucharest
+Bacau / Botosani / Iasi / Neamt / Suceava / Vaslui,Romania|Europe/Bucharest
+Brasov / Covasna / Harghita / Mures / Sibiu,Romania|Europe/Bucharest
+,Switzerland|Europe/Zurich
+St. Gallen,Switzerland|Europe/Zurich
+Bern,Switzerland|Europe/Zurich
+Aargau,Switzerland|Europe/Zurich
+Lucerne,Switzerland|Europe/Zurich
+Zug,Switzerland|Europe/Zurich
+Solothurn,Switzerland|Europe/Zurich
+Vaud,Switzerland|Europe/Zurich
+Zurich,Switzerland|Europe/Zurich
+Neuchatel,Switzerland|Europe/Zurich
+Appenzell Outer-Rhodes,Switzerland|Europe/Zurich
+Jura,Switzerland|Europe/Zurich
+Schwyz,Switzerland|Europe/Zurich
+Basel-City,Switzerland|Europe/Zurich
+Ticino,Switzerland|Europe/Zurich
+Appenzell Inner-Rhodes,Switzerland|Europe/Zurich
+Thurgau,Switzerland|Europe/Zurich
+Schaffhausen,Switzerland|Europe/Zurich
+Grigioni Grisons,Switzerland|Europe/Zurich
+Geneva,Switzerland|Europe/Zurich
+Glarus,Switzerland|Europe/Zurich
+Nidwalden,Switzerland|Europe/Zurich
+Basel-Country,Switzerland|Europe/Zurich
+Fribourg,Switzerland|Europe/Zurich
+,Czech Republic|Europe/Prague
+South Bohemian Region,Czech Republic|Europe/Prague
+Prague,Czech Republic|Europe/Prague
+Hradec Kralove Region,Czech Republic|Europe/Prague
+Central Bohemian Region,Czech Republic|Europe/Prague
+South Moravian Region,Czech Republic|Europe/Prague
+Liberec Region,Czech Republic|Europe/Prague
+Vysocina Region,Czech Republic|Europe/Prague
+Moravian-Silesian Region,Czech Republic|Europe/Prague
+Usti nad Labem Region,Czech Republic|Europe/Prague
+Pilsen Region,Czech Republic|Europe/Prague
+Olomouc Region,Czech Republic|Europe/Prague
+Karlovy Vary Region,Czech Republic|Europe/Prague
+Zlin Region,Czech Republic|Europe/Prague
+Pardubice Region,Czech Republic|Europe/Prague
+,Slovakia|Europe/Bratislava
+Banskobystricky / Zilinsky,Slovakia|Europe/Bratislava
+Bratislavsky,Slovakia|Europe/Bratislava
+Kosicky / Presovsky,Slovakia|Europe/Bratislava
+Nitriansky / Trenciansky / Trnavsky,Slovakia|Europe/Bratislava
+,Austria|Europe/Vienna
+Oberoesterreich,Austria|Europe/Vienna
+Kaernten,Austria|Europe/Vienna
+Vorarlberg,Austria|Europe/Vienna
+Wien,Austria|Europe/Vienna
+Burgenland,Austria|Europe/Vienna
+Niederoesterreich,Austria|Europe/Vienna
+Steiermark,Austria|Europe/Vienna
+Tirol,Austria|Europe/Vienna
+Salzburg,Austria|Europe/Vienna
+England,United Kingdom|Europe/London
+Wales,United Kingdom|Europe/London
+,United Kingdom|Europe/London
+Scotland,United Kingdom|Europe/London
+Northern Ireland,United Kingdom|Europe/London
+Channel Isles,United Kingdom|Europe/London
+Isle of Man,United Kingdom|Europe/London
+,Denmark|Europe/Copenhagen
+Hovedstaden,Denmark|Europe/Copenhagen
+Sjaelland,Denmark|Europe/Copenhagen
+Nordjylland,Denmark|Europe/Copenhagen
+Midtjylland,Denmark|Europe/Copenhagen
+Syddanmark,Denmark|Europe/Copenhagen
+Stockholm,Sweden|Europe/Stockholm
+,Sweden|Europe/Stockholm
+Skane,Sweden|Europe/Stockholm
+Vastmanland,Sweden|Europe/Stockholm
+Gotland,Sweden|Europe/Stockholm
+Norrbotten,Sweden|Europe/Stockholm
+Vastra Gotaland,Sweden|Europe/Stockholm
+Dalarna,Sweden|Europe/Stockholm
+Uppsala,Sweden|Europe/Stockholm
+Vasternorrland,Sweden|Europe/Stockholm
+Kalmar,Sweden|Europe/Stockholm
+Halland,Sweden|Europe/Stockholm
+Sodermanland,Sweden|Europe/Stockholm
+Gavleborg,Sweden|Europe/Stockholm
+Hradec Kralove Region,Sweden|Europe/Stockholm
+Orebro,Sweden|Europe/Stockholm
+Jonkoping,Sweden|Europe/Stockholm
+Varmland,Sweden|Europe/Stockholm
+Blekinge,Sweden|Europe/Stockholm
+Ostergotland,Sweden|Europe/Stockholm
+Jamtland,Sweden|Europe/Stockholm
+Vasterbotten,Sweden|Europe/Stockholm
+Kronoberg,Sweden|Europe/Stockholm
+,Norway|Europe/Oslo
+Akershus,Norway|Europe/Oslo
+Rogaland,Norway|Europe/Oslo
+Vestfold / Ostfold,Norway|Europe/Oslo
+Oslo,Norway|Europe/Oslo
+Finnmark / Troms / Nordland,Norway|Europe/Oslo
+Sor-Trondelag / Nord-Trondelag,Norway|Europe/Oslo
+Buskerud / Oppland / Hedmark,Norway|Europe/Oslo
+More og Romsdal / Sogn og Fjordane,Norway|Europe/Oslo
+Hordaland,Norway|Europe/Oslo
+Vest-Agder / Aust-Agder / Telemark,Norway|Europe/Oslo
+,Finland|Europe/Helsinki
+,Aland Islands|Europe/Mariehamn
+All Regions,Finland|America/Sao_Paulo
+,Lithuania|Europe/Vilnius
+All Regions,Lithuania|Europe/Vilnius
+,Latvia|Europe/Riga
+All Regions,Latvia|Europe/Riga
+,Estonia|Europe/Tallinn
+All Regions,Estonia|Europe/Tallinn
+,Russia|Asia/Krasnoyarsk
+All Regions,Russia|Asia/Krasnoyarsk
+Astana,Kazakhstan|Asia/Almaty
+,Ukraine|Europe/Kiev
+All Regions,Ukraine|Europe/Kiev
+Hradec Kralove Region,Ukraine|Europe/Kiev
+,Belarus|Europe/Minsk
+All Regions,Belarus|Europe/Minsk
+,Moldova|Europe/Chisinau
+All Regions,Moldova|Europe/Chisinau
+łódzkie,Poland|Europe/Warsaw
+śląskie,Poland|Europe/Warsaw
+świętokrzyskie,Poland|Europe/Warsaw
+zachodniopomorskie,Poland|Europe/Warsaw
+pomorskie,Poland|Europe/Warsaw
+mazowieckie,Poland|Europe/Warsaw
+małopolskie,Poland|Europe/Warsaw
+podlaskie,Poland|Europe/Warsaw
+opolskie,Poland|Europe/Warsaw
+lubelskie,Poland|Europe/Warsaw
+dolnośląskie,Poland|Europe/Warsaw
+kujawsko-pomorskie,Poland|Europe/Warsaw
+podkarpackie,Poland|Europe/Warsaw
+,Poland|Europe/Warsaw
+warmińsko-mazurskie,Poland|Europe/Warsaw
+wielkopolskie,Poland|Europe/Warsaw
+lubuskie,Poland|Europe/Warsaw
+Mazowieckie,Poland|Europe/Warsaw
+Bayern,Germany|Europe/Berlin
+,Germany|Europe/Berlin
+Hamburg / Schleswig-Holstein,Germany|Europe/Berlin
+Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany|Europe/Berlin
+Baden-Wuerttemberg,Germany|Europe/Berlin
+Hessen,Germany|Europe/Berlin
+Nordrhein-Westfalen,Germany|Europe/Berlin
+Rheinland-Pfalz / Saarland,Germany|Europe/Berlin
+Sachsen / Thueringen,Germany|Europe/Berlin
+Berlin / Brandenburg,Germany|Europe/Berlin
+,Gibraltar|Europe/Gibraltar
+,Portugal|Europe/Lisbon
+Regiao Norte,Portugal|America/Manaus
+Regiao de Lisboa,Portugal|America/Santiago
+Regiao Centro,Portugal|America/Sao_Paulo
+Regiao de Alentejo,Portugal|Europe/Lisbon
+Azores,Portugal|Atlantic/Azores
+Regiao de Algarve,Portugal|Europe/Lisbon
+Madeira,Portugal|Atlantic/Madeira
+,Luxemburg|Europe/Luxembourg
+All Regions,Luxemburg|Europe/Luxembourg
+,Ireland|Europe/Dublin
+All Regions,Ireland|Europe/Dublin
+,Iceland|Atlantic/Reykjavik
+,Malta|Europe/Malta
+All Regions,Malta|Europe/Malta
+,Cyprus|Asia/Nicosia
+All Regions,Cyprus|America/Sao_Paulo
+,Georgia|America/New_York
+All Regions,Georgia|America/New_York
+,Armenia|Asia/Yerevan
+,Bulgaria|Europe/Sofia
+All Regions,Bulgaria|Europe/Sofia
+,Turkey|Europe/Istanbul
+Istanbul,Turkey|Europe/Istanbul
+Manisa,Turkey|Europe/Istanbul
+Samsun,Turkey|Europe/Istanbul
+Gaziantep,Turkey|Europe/Istanbul
+Hatay,Turkey|Europe/Istanbul
+Antalya,Turkey|Europe/Istanbul
+Sanliurfa,Turkey|Europe/Istanbul
+Mersin,Turkey|Europe/Istanbul
+Adana,Turkey|Europe/Istanbul
+Ankara,Turkey|Europe/Istanbul
+Mugla,Turkey|Europe/Istanbul
+Sakarva,Turkey|Europe/Istanbul
+Kocael,Turkey|Europe/Istanbul
+Tekirdag,Turkey|Europe/Istanbul
+Konya,Turkey|Europe/Istanbul
+Bursa,Turkey|Europe/Istanbul
+Van,Turkey|Europe/Istanbul
+Trabozon,Turkey|Europe/Istanbul
+Izmir,Turkey|Europe/Istanbul
+Aydin,Turkey|Europe/Istanbul
+Balikesir,Turkey|Europe/Istanbul
+Kahramanmaras,Turkey|Europe/Istanbul
+Bilecik,Turkey|Europe/Istanbul
+Kayseri,Turkey|Europe/Istanbul
+Denzli,Turkey|Europe/Istanbul
+Diyarbakir,Turkey|Europe/Istanbul
+Eskisehir,Turkey|Europe/Istanbul
+Malatya,Turkey|Europe/Istanbul
+Ordu,Turkey|Europe/Istanbul
+Mardin,Turkey|Europe/Istanbul
+Erzurum,Turkey|Europe/Istanbul
+,Faroe Islands|Atlantic/Faroe
+,Greenland|America/Nuuk
+,San Marino|Europe/San_Marino
+,Slovenia|Europe/Ljubljana
+All Regions,Slovenia|Europe/Ljubljana
+All Regions,Macedonia|Europe/Skopje
+,Macedonia|Europe/Skopje
+,Liechtenstein|Europe/Vaduz
+,Montenegro|Europe/Podgorica
+All Regions,Montenegro|Europe/Podgorica
+Prince Edward Island,Canada|America/Halifax
+British Columbia,Canada|America/Vancouver
+Nova Scotia,Canada|America/Halifax
+Alberta,Canada|America/Edmonton
+Manitoba,Canada|America/Winnipeg
+New Brunswick,Canada|America/Moncton
+Saskatchewan,Canada|America/Regina
+Northern Territories,Canada|America/Yellowknife
+,Canada|America/Yellowknife
+Montana,United States|America/Denver
+Utah,United States|America/Denver
+Iowa,United States|America/Chicago
+South Dakota,United States|America/Chicago
+Wisconsin,United States|America/Chicago
+Nebraska,United States|America/Chicago
+Oklahoma,United States|America/Chicago
+,United States|America/Chicago
+West Virginia,United States|America/New_York
+Idaho,United States|America/Boise
+Alaska,United States|America/Anchorage
+,Puerto Rico|America/Puerto_Rico
+North Dakota,United States|America/Chicago
+Rhode Island,United States|America/New_York
+District Of Columbia,United States|America/New_York
+District of Columbia,United States|America/New_York
+All Regions,Puerto Rico|America/Puerto_Rico
+Montevideo,Uruguay|America/Montevideo
+North Island 2,New Zealand|Pacific/Auckland
+Florida,UNITED STATES|America/New_York
+Pennsylvania,UNITED STATES|America/New_York
+Colorado,UNITED STATES|America/Denver
+North Carolina,UNITED STATES|America/New_York
+Kuwait,Kuwait|Asia/Kuwait
+District of Columbia,Puerto Rico|America/New_York
+All Regions,United States|America/Chicago
+Florida,Puerto Rico|Atlantic/Canary
+Maryland,Puerto Rico|Asia/Manila
+Alabama,Puerto Rico|America/Puerto_Rico
+Massachusetts,Puerto Rico|America/New_York
+Connecticut,Puerto Rico|America/Los_Angeles
+North Carolina,Puerto Rico|America/Puerto_Rico
+Yucatan,Mexico|America/Merida
+Quintana Roo,Mexico|America/Cancun
+Tamaulipas,Mexico|America/Monterrey
+Mexico City,Mexico|America/Mexico_City
+Michoacan,Mexico|America/Mexico_City
+Baja California Norte,Mexico|America/Mexico_City
+San Luis Potosi,Mexico|America/Mexico_City
+Puebla,Mexico|America/Mexico_City
+Durango,Mexico|America/Monterrey
+Chiapas,Mexico|America/Mexico_City
+Guerrero,Mexico|America/Mexico_City
+,Mexico|America/Mexico_City
+Colima,Mexico|America/Mexico_City
+Hidalgo,Mexico|America/Mexico_City
+Guanajuato,Mexico|America/Mexico_City
+Coahuila,Mexico|America/Matamoros
+Mexico,Mexico|America/Mexico_City
+Nuevo Leon,Mexico|America/Monterrey
+Sonora,Mexico|America/Hermosillo
+Zacatecas,Mexico|America/Mexico_City
+Aguascalientes,Mexico|America/Mexico_City
+Chihuahua,Mexico|America/Chihuahua
+Jalisco,Mexico|America/Mexico_City
+Sinaloa,Mexico|America/Mazatlan
+Baja California Sur,Mexico|America/Mazatlan
+Tlaxcala,Mexico|America/Mexico_City
+Veracruz,Mexico|America/Mexico_City
+Oaxaca,Mexico|America/Mexico_City
+Morelos,Mexico|America/Mexico_City
+Campeche,Mexico|America/Merida
+Queretaro,Mexico|America/Mexico_City
+Nayarit,Mexico|America/Mazatlan
+Tabasco,Mexico|America/Mexico_City
+St. Catherine,Jamaica|America/Jamaica
+St. Andrew,Jamaica|America/Jamaica
+St. James,Jamaica|America/Jamaica
+Fort-De-France,Martinique|America/Martinique
+Fort-de-France,Martinique|America/Martinique
+,Guadeloupe|America/Guadeloupe
+,Martinique|America/Martinique
+Bridgetown,Barbados|America/Barbados
+St. James,Barbados|America/Barbados
+St. Michael,Barbados|America/Barbados
+St. Philip,Barbados|America/Barbados
+,Barbados|America/Barbados
+St.George,Barbados|America/Barbados
+St. Thomas,Barbados|America/Barbados
+,Antigua and Barbuda|America/Antigua
+,British Virgin Islands|America/Tortola
+,Bermuda|Atlantic/Bermuda
+,Grenada|America/Grenada
+Saint Peter,Montserrat|America/Montserrat
+,Saint Kitts and Nevis|America/St_Kitts
+Saint Lucia,Saint Lucia|America/St_Lucia
+,Saint Lucia|America/St_Lucia
+Babonneau,Saint Lucia|America/St_Lucia
+Kingstown,St. Vincent and Grenada|America/Los_Angeles
+,St. Vincent and Grenada|America/Los_Angeles
+,Curacao|America/Curacao
+All Regions,Curacao|America/Curacao
+,Aruba|America/Aruba
+New Providence,Bahamas|America/Nassau
+Eleuthera,Bahamas|America/Nassau
+,Bahamas|America/Nassau
+Andros,Bahamas|America/Nassau
+,Anguilla|America/Anguilla
+All Regions,Anguilla|America/Anguilla
+Island,Dominica|America/Dominica
+Patrick,Dominica|America/Dominica
+Paul,Dominica|America/Dominica
+Luke,Dominica|America/Dominica
+George,Dominica|America/Dominica
+John,Dominica|America/Dominica
+,Dominica|America/Santo_Domingo
+,Cuba|America/Havana
+All Regions,Cuba|America/Havana
+Santo Domingo,Dominican Republic|America/Santo_Domingo
+,Dominican Republic|America/Santo_Domingo
+La Vega,Dominican Republic|America/Santo_Domingo
+Distrito Nacional,Dominican Republic|America/Santo_Domingo
+Isla Beata,Dominican Republic|America/Santo_Domingo
+Santiago,Dominican Republic|America/Santo_Domingo
+Peravia,Dominican Republic|America/Santo_Domingo
+Duarte,Dominican Republic|America/Santo_Domingo
+Barahona,Dominican Republic|America/Santo_Domingo
+Espaillat,Dominican Republic|America/Santo_Domingo
+Azua,Dominican Republic|America/Santo_Domingo
+Puerto Plata,Dominican Republic|America/Santo_Domingo
+San Cristobal,Dominican Republic|America/Santo_Domingo
+Baoruco,Dominican Republic|America/Santo_Domingo
+Valverde,Dominican Republic|America/Santo_Domingo
+San Pedro de Macoris,Dominican Republic|America/Santo_Domingo
+Isla Saona,Dominican Republic|America/Santo_Domingo
+Dajabon,Dominican Republic|America/Santo_Domingo
+Monte Cristi,Dominican Republic|America/Santo_Domingo
+La Altagracia,Dominican Republic|America/Santo_Domingo
+La Romana,Dominican Republic|America/Santo_Domingo
+Samana,Dominican Republic|America/Santo_Domingo
+Monte Plata,Dominican Republic|America/Santo_Domingo
+Maria Trinidad Sanchez,Dominican Republic|America/Santo_Domingo
+Ouest,Haiti|America/Port-au-Prince
+Nord,Haiti|America/Port-au-Prince
+Sud-Est,Haiti|America/Port-au-Prince
+,Trinidad and Tobago|America/Port_of_Spain
+All Regions,Trinidad and Tobago|America/Port_of_Spain
+Alabama,U.S. Virgin Islands|America/St_Thomas
+South Carolina,U.S. Virgin Islands|America/St_Thomas
+All Regions,U.S. Virgin Islands|America/St_Thomas
+Florida,U.S. Virgin Islands|America/St_Thomas
+,Azerbaijan|Asia/Baku
+All Regions,Azerbaijan|Asia/Baku
+Pavlodar,Kazakhstan|Asia/Almaty
+,Kazakhstan|Asia/Almaty
+Almaty,Kazakhstan|Asia/Almaty
+Akmola,Kazakhstan|Asia/Almaty
+Karaganda,Kazakhstan|Asia/Almaty
+Aktobe,Kazakhstan|Asia/Aqtobe
+Kastanay,Kazakhstan|Asia/Almaty
+Karnataka,India|Asia/Kolkata
+Kerala,India|Asia/Kolkata
+Andhra Pradesh,India|Asia/Kolkata
+West Bengal,India|Asia/Kolkata
+Haryana,India|Asia/Kolkata
+Tamil,India|Asia/Kolkata
+Delhi,India|Asia/Kolkata
+Uttar,India|Asia/Kolkata
+Maharashtra,India|Asia/Kolkata
+Bihar,India|Asia/Kolkata
+Rajasthan,India|Asia/Kolkata
+Gujarat,India|Asia/Kolkata
+Punjab,India|Asia/Kolkata
+,India|Asia/Kolkata
+Orissa,India|Asia/Kolkata
+Tennessee,India|Asia/Kolkata
+Delaware,India|Asia/Kolkata
+Himachal,India|Asia/Kolkata
+Madhya,India|Asia/Kolkata
+Jharkhand,India|Asia/Kolkata
+Chhattisgara,India|Asia/Kolkata
+Sikkim,India|Asia/Kolkata
+Bombay Province,India|Asia/Kolkata
+Punjab,Pakistan|Asia/Karachi
+,Pakistan|Asia/Karachi
+All Regions,Pakistan|America/Sao_Paulo
+,Sri Lanka|Asia/Colombo
+All Regions,Sri Lanka|Asia/Colombo
+Beirut,Lebanon|Asia/Beirut
+Mount Lebanon,Lebanon|Asia/Beirut
+Tripoli,Lebanon|Asia/Beirut
+,Lebanon|Asia/Beirut
+North,Lebanon|Asia/Beirut
+,Jordan|Asia/Amman
+All Regions,Jordan|America/Sao_Paulo
+Baghdad,Iraq|Asia/Baghdad
+,Iraq|Asia/Baghdad
+,Saudi Arabia|Asia/Riyadh
+Makkah,Saudi Arabia|Asia/Riyadh
+Riyadh,Saudi Arabia|Asia/Riyadh
+Ash-Sharqiyyah,Saudi Arabia|Asia/Riyadh
+Amanat Al-Asemah,Yemen|Asia/Aden
+,Oman|Asia/Muscat
+All Regions,Oman|Asia/Muscat
+,OMAN|Asia/Muscat
+,Israel|Asia/Jerusalem
+Central,Israel|America/Asuncion
+Southern,Israel|Asia/Manila
+Tel Aviv,Israel|Asia/Jerusalem
+Northern,Israel|Asia/Jerusalem
+Haifa,Israel|Asia/Jerusalem
+Jerusalem,Israel|Asia/Jerusalem
+Southern,Bahrain|Asia/Bahrain
+Northern,Bahrain|Asia/Bahrain
+,Bahrain|Asia/Bahrain
+Muharraq,Bahrain|Asia/Bahrain
+Bahrain,Bahrain|Asia/Bahrain
+Capital,Bahrain|Asia/Bahrain
+Qatar,Qatar|Asia/Qatar
+,Qatar|Asia/Qatar
+Ulan Bataar,Mongolia|Asia/Ulaanbaatar
+North,Mongolia|Europe/Berlin
+,Nepal|Asia/Kathmandu
+,United Arab Emirates|Asia/Dubai
+Sharjah,United Arab Emirates|Asia/Dubai
+Abu Dhabi,United Arab Emirates|Asia/Dubai
+Dubai,United Arab Emirates|Asia/Dubai
+Ajman,United Arab Emirates|Asia/Dubai
+Rasal-Khaiman,United Arab Emirates|Asia/Dubai
+Fujarah,United Arab Emirates|Asia/Dubai
+Umm al-Quwain,United Arab Emirates|Asia/Dubai
+Teheran,Iran|Asia/Tehran
+All Regions,Uzbekistan|Asia/Samarkand
+,Uzbekistan|Asia/Samarkand
+,Kyrgyzstan|Asia/Bishkek
+Shinetsu,Japan|Asia/Tokyo
+Tohoku,Japan|Asia/Tokyo
+Kanto,Japan|Asia/Tokyo
+Chugoku,Japan|Asia/Tokyo
+,Japan|Asia/Tokyo
+Kyushu,Japan|Asia/Tokyo
+Hokkaido,Japan|Asia/Tokyo
+Kinki,Japan|Asia/Tokyo
+Tokai,Japan|Asia/Tokyo
+Shikoku,Japan|Asia/Tokyo
+Hokuriku,Japan|Asia/Tokyo
+,Hong Kong|Asia/Hong_Kong
+,Korea Republic of|Asia/Seoul
+BuSan Si,Korea Republic of|Asia/Seoul
+KyungKi-Do,Korea Republic of|Asia/Seoul
+Seoul,Korea Republic of|Asia/Seoul
+KyungSang Nam-Do,Korea Republic of|Asia/Seoul
+KWangJu Si,Korea Republic of|Asia/Seoul
+DaeKu Si,Korea Republic of|Asia/Seoul
+Busan Si,Korea Republic of|Asia/Seoul
+Gijang gun,Korea Republic of|Asia/Seoul
+InChon Si,Korea Republic of|Asia/Seoul
+ChungChong Nam-Do,Korea Republic of|Asia/Seoul
+KyungSang Buk-Do,Korea Republic of|Asia/Seoul
+DaeJeon Si,Korea Republic of|Asia/Seoul
+ChungChong Buk-Do,Korea Republic of|Asia/Seoul
+CheJu-Do,Korea Republic of|Asia/Seoul
+Gyeonggi Province,Korea Republic of|Asia/Seoul
+Jeonlla Nam Do,Korea Republic of|Asia/Seoul
+Jeonlla Buk-Do,Korea Republic of|Asia/Seoul
+UlSan Si  ,Korea Republic of|Asia/Seoul
+Hradec Kralove Region,Korea Republic of|Asia/Seoul
+Daeku Si,Korea Republic of|Asia/Seoul
+Kwangju Si,Korea Republic of|Asia/Seoul
+Daejeon Si,Korea Republic of|Asia/Seoul
+Inchon Si,Korea Republic of|Asia/Seoul
+Kyungki-Do,Korea Republic of|Asia/Seoul
+Kyungsang Nam-Do,Korea Republic of|Asia/Seoul
+Kyungsang Buk-Do,Korea Republic of|Asia/Seoul
+Chungchong Nam-Do,Korea Republic of|Asia/Seoul
+Chungchong Buk-Do,Korea Republic of|Asia/Seoul
+Vietnam,Viet Nam|Asia/Ho_Chi_Minh
+Ho Chi Minh City,Viet Nam|Asia/Ho_Chi_Minh
+HO CHI MINH CITY,Viet Nam|Asia/Ho_Chi_Minh
+Hong Kong,China|Asia/Hong_Kong
+Hong Kong,Hong Kong|Asia/Hong_Kong
+Hong Kong Macao,China|Asia/Shanghai
+Macao,China|Asia/Macau
+Zhe Jiang  Fu Jian  Jiang Xi,China|Asia/Shanghai
+All Regions,Macao|Asia/Macau
+,Laos|Asia/Vientiane
+Hu Nan  Guang Dong  Guang Xi,China|Asia/Shanghai
+,China|Asia/Shanghai
+Southern Taiwan,Taiwan|Asia/Taipei
+Shan Dong  Jiang Su,China|Asia/Shanghai
+Hei Long Jiang  Ji Lin  Liao Ning,China|Asia/Shanghai
+XinJiang,China|Asia/Shanghai
+Shan Xi  He Bei  Tian Jin,China|Asia/Shanghai
+Bei Jing,China|Asia/Shanghai
+He Nan  Hu Bei  An Hui,China|Asia/Shanghai
+Nei Mogol Shan Xi He Bei Tian Jin,China|Asia/Shanghai
+Shan Xi  Ning Xia  Gan Su  Qing Hai,China|Asia/Shanghai
+Shan Dong  Jiang Su,CHINA|Asia/Shanghai
+Shan Xi  Ning Xia  Gan Su  Qing Hai,CHINA|Asia/Shanghai
+Inner Mongolia ,China|Asia/Shanghai
+Gui Zhou  Si Chuan ,China|Asia/Shanghai
+South Carolina,China|America/New_York
+Hu Nan  Guang Dong  Guang Xi,CHINA|Asia/Shanghai
+Hradec Kralove Region,China|Asia/Shanghai
+Northern Taiwan,Taiwan|Asia/Taipei
+Taipei,Taiwan|Asia/Taipei
+Central Taiwan,Taiwan|Asia/Taipei
+,Taiwan|Asia/Taipei
+Eastern Taiwan,Taiwan|Asia/Taipei
+All Regions,Bangladesh|Asia/Dhaka
+,Bangladesh|Asia/Dhaka
+,Maldives|Indian/Maldives
+Spratly Is.,Malaysia|Asia/Manila
+West Malaysia,Malaysia|Asia/Kuala_Lumpur
+,Malaysia|Asia/Kuala_Lumpur
+East Malaysia,Malaysia|Asia/Kuala_Lumpur
+South Australia,Australia|Australia/Adelaide
+Queensland,Australia|Australia/Brisbane
+New South Wales,Australia|Australia/Sydney
+Victoria,Australia|Australia/Melbourne
+Northern Territory,Australia|Australia/Darwin
+Australian Capital Territory,Australia|Australia/Sydney
+Western Australia,Australia|Australia/Perth
+Tasmania,Australia|Australia/Hobart
+,Australia|Australia/Darwin
+Nova Scotia,Australia|Australia/Sydney
+Washington,Australia|America/New_York
+DKI Jakarta,Indonesia|Asia/Jakarta
+Jawa Tengah,Indonesia|Asia/Jakarta
+Jawa Barat,Indonesia|Asia/Jakarta
+Papua,Indonesia|Asia/Jayapura
+DI Yogyakarta,Indonesia|Asia/Jakarta
+Kalimantan Selatan,Indonesia|Asia/Makassar
+Bali,Indonesia|Asia/Makassar
+Riau,Indonesia|Asia/Jakarta
+Jawa Timur,Indonesia|Asia/Jakarta
+Kalimantan Timur,Indonesia|Asia/Makassar
+Sumatera Utara,Indonesia|Asia/Jakarta
+Banten,Indonesia|Asia/Jakarta
+Sulawesi Selatan,Indonesia|Asia/Makassar
+Nusa Tenggara Barat,Indonesia|Asia/Makassar
+Kepulauan Riau,Indonesia|Asia/Jakarta
+Jambi,Indonesia|Asia/Jakarta
+Kalimantan Tengah,Indonesia|Asia/Pontianak
+Bengkulu,Indonesia|Asia/Jakarta
+Sumatera Selatan,Indonesia|Asia/Jakarta
+Sumatera Barat,Indonesia|Asia/Jakarta
+Aceh,Indonesia|Asia/Jakarta
+Lampung,Indonesia|Asia/Jakarta
+Papua Barat,Indonesia|Asia/Jayapura
+Sulawesi Tenggara,Indonesia|Asia/Makassar
+Maluku,Indonesia|Asia/Jayapura
+Kepulauan Bangka Belitung,Indonesia|Asia/Jakarta
+Sulawesi Tengah,Indonesia|Asia/Makassar
+Sulawesi Barat,Indonesia|Asia/Makassar
+Sulawesi Utara,Indonesia|Asia/Makassar
+Kalimantan Barat,Indonesia|Asia/Pontianak
+Central Visayas,Philippines|Asia/Manila
+Zamboanga Peninsula,Philippines|Asia/Manila
+Central Luzon,Philippines|Asia/Manila
+Bicol Region,Philippines|Asia/Manila
+Calabarzon,Philippines|Asia/Manila
+Ilocos Region,Philippines|Asia/Manila
+Western Visayas,Philippines|Asia/Manila
+Cordillera Region,Philippines|Asia/Manila
+Northern Mindanao,Philippines|Asia/Manila
+Cagayan Valley,Philippines|Asia/Manila
+Northern Luzon,Philippines|Asia/Manila
+Soccsksargen,Philippines|Asia/Manila
+Davao Region,Philippines|Asia/Manila
+Eastern visayas,Philippines|Asia/Manila
+,Philippines|Asia/Manila
+Mimaropa,Philippines|Asia/Manila
+Caraga,Philippines|Asia/Manila
+Autonomous Region,Philippines|Asia/Shanghai
+Narathiwat,Thailand|Asia/Bangkok
+Bangkok,Thailand|Asia/Bangkok
+Nonthaburi,Thailand|Asia/Bangkok
+Ranong,Thailand|Asia/Bangkok
+Chiang mai,Thailand|Asia/Bangkok
+Ubon Ratchathani,Thailand|Asia/Bangkok
+Chon Buri,Thailand|Asia/Bangkok
+Rayong,Thailand|Asia/Bangkok
+Phra Nakhon Si Ayutthaya,Thailand|Asia/Bangkok
+,Thailand|Asia/Bangkok
+Nakhon Ratchasima,Thailand|Asia/Bangkok
+Surat Thani,Thailand|Asia/Bangkok
+Phuket,Thailand|Asia/Bangkok
+Pathum Thani,Thailand|Asia/Bangkok
+Songkhla,Thailand|Asia/Bangkok
+Krabi,Thailand|Asia/Bangkok
+Surin,Thailand|Asia/Bangkok
+Phitsanulok,Thailand|Asia/Bangkok
+Chiang Mai,Thailand|Asia/Bangkok
+Sukhothai,Thailand|Asia/Bangkok
+Udon Thani,Thailand|Asia/Bangkok
+Uttaradit,Thailand|Asia/Bangkok
+Samut Prakan,Thailand|Asia/Bangkok
+Phayao,Thailand|Asia/Bangkok
+Sakon Nakhon,Thailand|Asia/Bangkok
+Yasothon,Thailand|Asia/Bangkok
+Samut Sakhon,Thailand|Asia/Bangkok
+Pattani,Thailand|Asia/Bangkok
+Kanchanaburi,Thailand|Asia/Bangkok
+Uthai Thani,Thailand|Asia/Bangkok
+Phichit,Thailand|Asia/Bangkok
+Phetchaburi,Thailand|Asia/Bangkok
+Phangnga,Thailand|Asia/Bangkok
+Chumphon,Thailand|Asia/Bangkok
+Nakhon Sawan,Thailand|Asia/Bangkok
+Saraburi,Thailand|Asia/Bangkok
+Mukdahan,Thailand|Asia/Bangkok
+Prachin Buri,Thailand|Asia/Bangkok
+Chiang Rai,Thailand|Asia/Bangkok
+Chachoengsao,Thailand|Asia/Bangkok
+Yala,Thailand|Asia/Bangkok
+Roi Et,Thailand|Asia/Bangkok
+Tak,Thailand|Asia/Bangkok
+Chanthaburi,Thailand|Asia/Bangkok
+Phetchabun,Thailand|Asia/Bangkok
+Phrae,Thailand|Asia/Bangkok
+Phatthalung,Thailand|Asia/Bangkok
+Trang,Thailand|Asia/Bangkok
+Kamphaeng Phet,Thailand|Asia/Bangkok
+Chai Nat,Thailand|Asia/Bangkok
+Si Sa Ket,Thailand|Asia/Bangkok
+Nakhon Si Thammarat,Thailand|Asia/Bangkok
+Maha Sarakham,Thailand|Asia/Bangkok
+Khon Kaen,Thailand|Asia/Bangkok
+Loburi,Thailand|Asia/Bangkok
+Lamphun,Thailand|Asia/Bangkok
+Trat,Thailand|Asia/Bangkok
+Buri Ram,Thailand|Asia/Bangkok
+Nakhon Pathom,Thailand|Asia/Bangkok
+Kalasin,Thailand|Asia/Bangkok
+Ratchaburi,Thailand|Asia/Bangkok
+Satun,Thailand|Asia/Bangkok
+Prachuap Khiri Khan,Thailand|Asia/Bangkok
+Ang Thong,Thailand|Asia/Bangkok
+Nakhon Nayok,Thailand|Asia/Bangkok
+Suphan Buri,Thailand|Asia/Bangkok
+Sing Buri,Thailand|Asia/Bangkok
+Lampang,Thailand|Asia/Bangkok
+Samut Songkhram,Thailand|Asia/Bangkok
+Loei,Thailand|Asia/Bangkok
+buogkan,Thailand|Asia/Bangkok
+Mae Hong Son,Thailand|Asia/Bangkok
+Nan,Thailand|Asia/Bangkok
+Sa Kaeo,Thailand|Asia/Bangkok
+Singapore,Singapore|Asia/Singapore
+,Singapore|Asia/Singapore
+,Brunei Darussalam|Asia/Brunei
+All Regions,Brunei Darussalam|Asia/Brunei
+North Island 1,New Zealand|Pacific/Auckland
+,New Zealand|Pacific/Auckland
+South Island,New Zealand|Pacific/Auckland
+Alaska,New Zealand|Pacific/Auckland
+,Guam|Pacific/Guam
+Hawaii,Guam|Pacific/Guam
+All Regions,Guam|Pacific/Guam
+Virginia,Guam|America/New_York
+,Papua New Guinea|Pacific/Port_Moresby
+All Regions,Papua New Guinea|Pacific/Port_Moresby
+,Vanuatu|Pacific/Efate
+,American Samoa|Pacific/Pago_Pago
+South Province,New Caledonia|Pacific/Noumea
+,Cook Islands|Pacific/Rarotonga
+,Micronesia|Pacific/Chuuk
+,Palau|Etc/GMT-9
+,Algeria|Africa/Algiers
+All Regions,Morocco|Africa/Casablanca
+,Morocco|Africa/Casablanca
+,Senegal|Africa/Dakar
+,Mauretania|Africa/Nouakchott
+,Guinea|Africa/Conakry
+,Ivory Coast|Africa/Abidjan
+All Regions,Ivory Coast|Africa/Abidjan
+,Burkina Faso|Africa/Ouagadougou
+,Togo|Africa/Lome
+,Mauritius|Indian/Mauritius
+Pamplemousses,Mauritius|Indian/Mauritius
+,Liberia|Africa/Monrovia
+,Ghana|Africa/Accra
+,Nigeria|Africa/Lagos
+All Regions,Nigeria|Africa/Lagos
+,Chad|Africa/Ndjamena
+,Central African Republic|Africa/Bangui
+,Cameroon|Africa/Douala
+All Regions,Cape Verde|Atlantic/Cape_Verde
+,Sudan|Africa/Khartoum
+,Djibouti|Africa/Djibouti
+,Kenya|Africa/Nairobi
+All Regions,Kenya|America/Sao_Paulo
+,Tanzania|Africa/Dar_es_Salaam
+,Mozambique|Africa/Maputo
+,Zambia|Africa/Lusaka
+,Madagascar|Indian/Antananarivo
+,Reunion|Indian/Reunion
+All Regions,Reunion|Indian/Reunion
+,Zimbabwe|Africa/Harare
+,Namibia|Africa/Windhoek
+,Swasiland|Africa/Mbabane
+,South Africa|Africa/Johannesburg
+Gauteng,South Africa|Africa/Johannesburg
+Cape,South Africa|Africa/Johannesburg
+Kwazulu-Natal,South Africa|Africa/Johannesburg
+Eastern Cape,South Africa|Africa/Johannesburg
+Freestate,South Africa|Africa/Johannesburg
+,Ascension Island|Atlantic/St_Helena
+,Belize|America/Belize
+Cayo District,Belize|America/Belize
+Belize District,Belize|America/Belize
+Corozal District,Belize|America/Belize
+Stann Creek District,Belize|America/Belize
+,Guatemala|America/Guatemala
+All Regions,Guatemala|America/Sao_Paulo
+,El Salvador|America/El_Salvador
+All Regions,El Salvador|America/El_Salvador
+Cortes y Yoro,Honduras|America/Tegucigalpa
+Comayagua,Honduras|America/Tegucigalpa
+,Honduras|America/Tegucigalpa
+,Nicaragua|America/Managua
+Managua,Nicaragua|America/Managua
+Not Listed,Nicaragua|America/Managua
+,Costa Rica|America/Costa_Rica
+San Carlos,Costa Rica|America/Costa_Rica
+Alajuela,Costa Rica|America/Costa_Rica
+San Jose,Costa Rica|America/Costa_Rica
+Heredia,Costa Rica|America/Costa_Rica
+Cartago,Costa Rica|America/Costa_Rica
+Guanacaste,Costa Rica|America/Costa_Rica
+Puntarenas,Costa Rica|America/Costa_Rica
+Panama,Panama|America/Panama
+Colon,Panama|America/Panama
+,Panama|America/Panama
+Lima,Peru|America/Lima
+Arequipa,Peru|America/Lima
+La Libertad,Peru|America/Lima
+Moquequa,Peru|America/Lima
+,Peru|America/Lima
+Piura,Peru|America/Lima
+Caba,Argentina Republic|America/Argentina/Buenos_Aires
+Ciudad de Buenos Aires,Argentina Republic|America/Argentina/Buenos_Aires
+,Argentina Republic|America/Argentina/Mendoza
+Santa Fe,Argentina Republic|America/Argentina/Cordoba
+Cordoba,Argentina Republic|America/Argentina/Cordoba
+Santa Cruz,Argentina Republic|America/Tegucigalpa
+Ciudad De Buenos Aires,Argentina Republic|America/Argentina/Buenos_Aires
+Rio Negro,Argentina Republic|America/Argentina/Mendoza
+Neuquen,Argentina Republic|America/Argentina/Mendoza
+Mendoza,Argentina Republic|America/Argentina/Mendoza
+Tierra del Fuego,Argentina Republic|America/Argentina/Mendoza
+Tucuman,Argentina Republic|America/Argentina/Cordoba
+Chaco,Argentina Republic|America/Argentina/Mendoza
+Entre Rios,Argentina Republic|America/Argentina/Mendoza
+Chubut,Argentina Republic|America/Argentina/Mendoza
+South Dakota,Argentina Republic|America/Argentina/Mendoza
+Santiago del Estero,Argentina Republic|America/Argentina/Mendoza
+La Pampa,Argentina Republic|America/Tegucigalpa
+Arkansas,Argentina Republic|America/Chicago
+Corrientes,Argentina Republic|America/Argentina/Mendoza
+San Juan,Argentina Republic|America/Argentina/Mendoza
+La Rioja,Argentina Republic|America/Argentina/Mendoza
+Salta,Argentina Republic|Europe/Moscow
+Catamarca,Argentina Republic|America/Argentina/Mendoza
+Jujuy,Argentina Republic|America/Argentina/Mendoza
+Mississippi,Argentina Republic|Asia/Nicosia
+Formosa,Argentina Republic|America/Argentina/Mendoza
+San Luis,Argentina Republic|America/Argentina/Mendoza
+Tierra Del Fuego,Argentina Republic|America/Argentina/Mendoza
+,Brazil|America/Cuiaba
+Rio de Janeiro,Brazil|America/Sao_Paulo
+Sao Paulo,Brazil|America/Sao_Paulo
+Distrito Federal,Brazil|America/Sao_Paulo
+Rio Grande do Sul,Brazil|America/Sao_Paulo
+Minas Gerais,Brazil|America/Sao_Paulo
+Acre,Brazil|America/Rio_Branco
+Parana,Brazil|America/Sao_Paulo
+Santa Catarina,Brazil|America/Sao_Paulo
+Amazonas,Brazil|America/Manaus
+Paraiba,Brazil|America/Fortaleza
+Pernambuco,Brazil|America/Recife
+Goias,Brazil|America/Sao_Paulo
+Bahia,Brazil|America/Bahia
+Espirito Santo,Brazil|America/Sao_Paulo
+Sergipe,Brazil|America/Maceio
+Ceara,Brazil|America/Fortaleza
+Tocantins,Brazil|America/Araguaina
+Maranhao,Brazil|America/Fortaleza
+Para,Brazil|America/Santarem
+Mato Grosso,Brazil|America/Cuiaba
+Rio Grande do Norte,Brazil|America/Fortaleza
+Mato Grosso do Sul,Brazil|America/Campo_Grande
+Sao Paulo,BRAZIL|America/Sao_Paulo
+Piaui,Brazil|America/Fortaleza
+Amapa,Brazil|America/Belem
+Rondonia,Brazil|America/Porto_Velho
+Rio De Janeiro,Brazil|America/Sao_Paulo
+Montana,Brazil|America/Belem
+Alagoas,Brazil|America/Maceio
+Roraima,Brazil|America/Boa_Vista
+South Carolina,Brazil|America/New_York
+SERGIPE,Brazil|America/Maceio
+,Chile|America/Santiago
+Antofagasta,Chile|America/Santiago
+Reg.Metr. de Santiago,Chile|America/Santiago
+Coquimbo,Chile|America/Santiago
+Tarapac,Chile|America/Santiago
+Los Lagos,Chile|America/Santiago
+Atacama,Chile|America/Santiago
+Magallanes,Chile|America/Punta_Arenas
+Maule,Chile|America/Santiago
+Valparaiso,Chile|America/Santiago
+Bio Bio,Chile|America/Santiago
+La Araucania,Chile|America/Santiago
+Colchagua,Chile|America/Santiago
+Aisen,Chile|America/Santiago
+Reg.Metr. De Santiago,Chile|America/Santiago
+Antioquia,Colombia|America/Bogota
+Cundinamarca,Colombia|America/Bogota
+Valle Del Cauca,Colombia|America/Bogota
+Valle del Cauca,Colombia|America/Bogota
+Magdalena,Colombia|America/Bogota
+Boyaca,Colombia|America/Bogota
+Quindio,Colombia|America/Bogota
+Santander,Colombia|America/Bogota
+Huila,Colombia|America/Bogota
+La Guajira,Colombia|America/Bogota
+Bolivar,Colombia|America/Bogota
+,Colombia|America/Bogota
+Casnare,Colombia|America/Bogota
+Tolima,Colombia|America/Bogota
+Cauca,Colombia|America/Bogota
+Caldas,Colombia|America/Bogota
+San Andres Y Providencia,Colombia|Etc/GMT+5
+Rosaralda,Colombia|America/Bogota
+San Andres y Providencia,Colombia|Etc/GMT+5
+Atlantico,Colombia|America/Bogota
+Sucre,Colombia|America/Bogota
+Cesar,Colombia|America/Bogota
+Putumayo,Colombia|America/Bogota
+Amazonas,Colombia|America/Bogota
+Caqueta,Colombia|America/Bogota
+Meta,Colombia|America/Bogota
+Cordoba,Colombia|America/Bogota
+,Venezuela|America/Caracas
+Anzoategui,Venezuela|America/Caracas
+Distrito Capital,Venezuela|America/Caracas
+Aragua,Venezuela|America/Caracas
+Carabobo,Venezuela|America/Caracas
+Miranda,Venezuela|America/Caracas
+Tachira,Venezuela|America/Caracas
+Zulia,Venezuela|America/Caracas
+Falcon,Venezuela|America/Caracas
+Monagas,Venezuela|America/Caracas
+Lara,Venezuela|America/Caracas
+Nueva Esparta,Venezuela|America/Caracas
+Virginia,Venezuela|America/Havana
+Barinas,Venezuela|America/Caracas
+Trujillo,Venezuela|America/Caracas
+Merida,Venezuela|America/Caracas
+All Regions,Bolivia|America/La_Paz
+Georgetown,Guyana|America/Guyana
+,Guyana|America/Guyana
+,Ecuador|America/Guayaquil
+All Regions,Ecuador|America/Guayaquil
+Amabay,Paraguay|America/Asuncion
+,Paraguay|America/Asuncion
+Asuncion ,Paraguay|America/Asuncion
+,Suriname|America/Paramaribo
+,Uruguay|America/Montevideo
+Colonia,Uruguay|America/Montevideo
+Maldonado,Uruguay|America/Montevideo
+Rocha,Uruguay|America/Montevideo
+Flores,Uruguay|America/Montevideo
+Canelones,Uruguay|America/Montevideo
+Cerro Largo,Uruguay|America/Montevideo
+Lavalleja,Uruguay|America/Montevideo
+Salto,Uruguay|America/Montevideo
+Soriano,Uruguay|America/Montevideo
+Treinta y Tres,Uruguay|America/Montevideo
+San Jose,Uruguay|America/Montevideo
+Rio Negro,Uruguay|America/Montevideo
+Rivera,Uruguay|America/Montevideo
