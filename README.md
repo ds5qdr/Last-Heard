@@ -11,7 +11,7 @@
 - 2021.07.30 : V1.21 Data Transfer protocol updated and added admin functions
 
 # How to install
-![image](https://user-images.githubusercontent.com/64110724/130436139-be3ffe78-efc5-44a1-bbdb-e2ee2374c8ce.png)
+![image](https://user-images.githubusercontent.com/64110724/147442503-fe3b7989-94b5-4959-b8e2-f1995949fbb0.png)
 - Download Last-Heard-main.zip from github
 - Unzip Last-Heard-main.zip 
 - Edit lh.ini 
@@ -21,11 +21,10 @@
 - Double click LH_Client.exe 
 
 # For more information click below link
-- https://ds5qdr-dv.tistory.com/234
+- https://ds5qdr-dv.tistory.com/297
 
-![image](https://user-images.githubusercontent.com/64110724/123597205-ff1ab380-d82d-11eb-8423-490047bc3ef3.png)
-![image](https://user-images.githubusercontent.com/64110724/130441242-9ae69e76-f0dd-46ef-b668-b317c7fe10cf.png)
-
+![슬라이드1](https://user-images.githubusercontent.com/64110724/147442551-bfa475d1-e2f9-4535-9223-573fa0040ba3.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/64110724/147442553-38df24da-cc32-4acb-b2f6-0ca2eb3a7fef.JPG)
 
 
 Thanks, 감사합니다
