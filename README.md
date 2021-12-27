@@ -11,7 +11,8 @@
 - 2021.07.30 : V1.21 Data Transfer protocol updated and added admin functions
 
 # How to install
-![image](https://user-images.githubusercontent.com/64110724/147442503-fe3b7989-94b5-4959-b8e2-f1995949fbb0.png)
+![image](https://user-images.githubusercontent.com/64110724/147442652-c23cb1f9-3a18-4167-a7d4-c9fa12f3616c.png)
+
 - Download Last-Heard-main.zip from github
 - Unzip Last-Heard-main.zip 
 - Edit lh.ini 
