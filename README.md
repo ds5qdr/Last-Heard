@@ -11,8 +11,7 @@
 - 2021.07.30 : V1.21 Data Transfer protocol updated and added admin functions
 
 # How to install
-![image](https://user-images.githubusercontent.com/64110724/147442699-09b7a22f-5fed-4503-9e4f-6b89a39c1931.png)
-
+![image](https://user-images.githubusercontent.com/64110724/147442831-be8ed0e5-e830-41f3-b93d-008cb9934c46.png)
 
 - Download Last-Heard-main.zip from github
 - Unzip Last-Heard-main.zip 
