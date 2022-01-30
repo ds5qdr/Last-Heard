@@ -1,9 +1,10 @@
 # Last-Heard Monitoring for DMR, DSTAR, YSF
-- Version : V1.41
-- Updated Date : 2021.12.28
+- Version : V1.50
+- Updated Date : 2022.01.30
 - Programmed by DS5QDR Lee, Hoenmin
 
 # Update History
+- 2022.01.30 : V1.50 Last Heard Sever Changed from Local to Cloud 
 - 2021.12.27 : V1.40 Improved GUI
 - 2021.09.03 : V1.30 Add YSF Monitoring (testing now) and modified admin functions
 - 2021.08.25 : V1.26 DSTAR Display On/Off and modified admin functions
