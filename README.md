@@ -17,7 +17,7 @@
 - Download Last-Heard-main.zip from github
 - Unzip Last-Heard-main.zip 
 - Edit lh.ini 
-   > tgs=tgs=[450, 45021, 45022, 45023, 45024, 45025, 45026, 45027, 45028, 45029, 91]  
+   > tgs=[450, 45021, 45022, 45023, 45024, 45025, 45026, 45027, 45028, 45029, 91]  
    > you can add, delete DMR TGs what you monitoring 
    > and then Save 
 - Double click LH_Client.exe 
